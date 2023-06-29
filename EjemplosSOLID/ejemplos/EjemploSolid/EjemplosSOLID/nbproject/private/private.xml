@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/SALA%20A/Desktop/a/clase004-2bim-daravan1/EjemplosSOLID/ejemplos/EjemploSolid/EjemplosSOLID/src/paquete02/Principal.java</file>
+            <file>file:/C:/Users/SALA%20A/Desktop/a/clase004-2bim-daravan1/EjemplosSOLID/ejemplos/EjemploSolid/EjemplosSOLID/src/paquete02/OperacionesEstudiantes.java</file>
+            <file>file:/C:/Users/SALA%20A/Desktop/a/clase004-2bim-daravan1/EjemplosSOLID/ejemplos/EjemploSolid/EjemplosSOLID/src/paquete02/Ciudad.java</file>
+            <file>file:/C:/Users/SALA%20A/Desktop/a/clase004-2bim-daravan1/EjemplosSOLID/ejemplos/EjemploSolid/EjemplosSOLID/src/paquete02/Persona.java</file>
+        </group>
+    </open-files>
+</project-private>
+=======
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
@@ -42,3 +56,4 @@
         </group>
     </open-files>
 </project-private>
+>>>>>>> bf08b5d78d34bb15640b70b071ad1d449dc08e17

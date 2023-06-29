@@ -25,7 +25,7 @@ public class Principal {
 
         op1.establecerEstudiante(lista);
         op1.establecerPromedioEdades();
-        op1.establecerListaCiudades();
+        op1.establecerListaCiudades();  
         System.out.printf("Promedio de edades: %.2f\n"
                 + "Edad minima: %d\n"
                 + "Edad maxima: %d\n"
